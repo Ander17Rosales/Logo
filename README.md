@@ -1,2 +1,2 @@
-# Logo
-Logo for web
+# N/A
+
